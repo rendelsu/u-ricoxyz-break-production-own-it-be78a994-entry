@@ -1,4 +1,5 @@
 // Break Production, Own It — the line an AI agent prints the moment it breaks production.
+// r1 revision: header comment only; entry line unchanged.
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
